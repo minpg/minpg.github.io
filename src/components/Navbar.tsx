@@ -9,7 +9,7 @@ export default function Navbar() {
           className="text-3xl tracking-tight text-foreground" 
           style={{ fontFamily: "'Instrument Serif', serif" }}
         >
-          Velorah<sup className="text-xs">®</sup>
+          Minhheeeee<sup className="text-xs">®</sup>
         </span>
       </div>
 
